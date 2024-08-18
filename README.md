@@ -2,27 +2,33 @@
 
 <br />
 
-#### DESCRIPTION:
+### DESCRIPTION:
 
-Current version: 1.1 (04.08.2024)
+<br />
 
-Name: G.O.L.D. Beta Resource Pack
+- Current version: 1.1 (04.08.2024)
 
-Target MC Version: 1.6.4
+- Name: G.O.L.D. Beta Resource Pack
 
-Description: G.O.L.D. (aka Good Old Days) nostalgia resource pack with textures, sounds and details from beta versions
+- Target MC Version: 1.6.4
 
-Repacker: ddan9
+- Description: G.O.L.D. (aka Good Old Days) nostalgia resource pack with textures, sounds and details from beta versions
 
-CO-Authors: many good others guys
+- Repacker: ddan9
 
-Couple words: This resource pack is more than just textures and sounds. It's big back in time researches for make excellent pack with love and soul
+- CO-Authors: many good others guys
+
+- Couple words: This resource pack is more than just textures and sounds. It's big back in time researches for make excellent pack with love and soul
+
+<br />
 
 P.S.: This resource pack may not work with high MC version. In this case, you can repack it for your version, make branch or fork and share it. All sources are public
 
 <br />
 
-#### USED SOURCES:
+### USED SOURCES:
+
+<br />
 
 - wiki: https://minecraft.fandom.com/wiki
 - forum: https://www.planetminecraft.com
@@ -30,10 +36,14 @@ P.S.: This resource pack may not work with high MC version. In this case, you ca
 - textures gallery: https://minecraft.novaskin.me/gallery
 - another more better editor: https://web.blockbench.net
 
+<br />
+
 - minecraft beta 1.7.3 jar
 - minecraft beta 1.8 pre-release 1 jar
 - minecraft beta 1.8 jar
 - minecraft 1.6.4 jar
+
+<br />
 
 - default resource pack: http://www.mediafire.com/?os6md5jugtg361d
 - beta resource pack (with rightly working sounds, used as basic): https://dl.fr-minecraft.net/upload/textures/fr-minecraft_texture_E47Y_Nostalgic__x_.zip
@@ -41,6 +51,8 @@ P.S.: This resource pack may not work with high MC version. In this case, you ca
 - beta resource pack (3): https://mediafilez.forgecdn.net/files/2352/446/OLD_DEFAULT_BETA_1.11.zip
 - faithful resource pack: http://download1075.mediafire.com/k463jjh8qc9gJcanXRmAT-HHGYhinyKXQNHz7_0J7SuMpbJjXq99oZlXX8d8Gc4qcB8-bzAWfkgumKN7evRkR7Nki5fI_ay-3nFGBsZNbBb0ReDi_XbEtOG6gdc2TjZKj8U_vfDVloIsMt61a0NZxIprm9Hjz-gj87bKNpufLg/mwpmopebo3d026d/faithful32pack-converted-1372539040473.zip
 - alpha resource pack: https://drive.usercontent.google.com/download?id=1N0I4qAYC2VIzbHiNA-MOaYZ75jDDDQoY&export=download
+
+<br />
 
 - old steve skin model (1): https://minecraft.novaskin.me/skin/4057653878/Original-Steve-with-Beard
 - old steve skin model (2): https://www.planetminecraft.com/skin/old-steve-4425570
@@ -50,13 +62,17 @@ P.S.: This resource pack may not work with high MC version. In this case, you ca
 
 <br />
 
-#### TODO:
+### TODO:
+
+<br />
 
 - глянуть что можно сделать с цветокартой травы (по крайней мере точно травы). Вроде как в бета версиях не было деления на биомы. Вроде как. Вроде как использовался тогда 1 цвет - цвет нынешних равнин. Хотя наблюдения показывают, что деление было, но прикол в том что было не так сильно заметно что есть разница. + например в болотах использовался обычный цвет
 - у травяных блоков был видимо реально один цвет. Тон цвета был как у нас сейчас от равнин либо леса
 - возможно будет достаточно сделать ещё зеленее (но это уже говно вариант, т.к. уже сделано)
 - https://minecraft.wiki/w/Grass_Block#cite_ref-preset_3-0
 - https://minecraft.fandom.com/wiki/Color
+
+<br />
 
 - попробовать найти старую текстуру волков от jeb'a и поменять её вместо собаки либо волка
 - глянуть "удалённые текстуры"
@@ -69,6 +85,8 @@ P.S.: This resource pack may not work with high MC version. In this case, you ca
 - minecraft items renames log
 - там короче нужно будет капитально поработать на локализацией
 
+<br />
+
 - сделать рубины вместо изумрудов. Нужно найти текстуру руды (причем правильную, эталон на вики есть) + перекрасить цвет блока. Ещё поменять в языковых(!) БД + поменять текстуру item'a
 - https://www.google.com/search?client=firefox-b-lm&q=minecraft+emerald
 - https://minecraft.fandom.com/wiki/Emerald
@@ -78,6 +96,8 @@ P.S.: This resource pack may not work with high MC version. In this case, you ca
 - https://www.planetminecraft.com/texture-pack/the-original-rubies/
 - https://www.planetminecraft.com/texture-pack/ruby-texture-pack-5817689/
 - https://minecraft.fandom.com/wiki/History_of_textures/Unused_textures#Ruby
+
+<br />
 
 - попробовать сделать черные частицы на эндера
 - minecraft replace world loading bar from beta
@@ -89,9 +109,11 @@ P.S.: This resource pack may not work with high MC version. In this case, you ca
 
 <br />
 
-#### CHANGELOG:
+### CHANGELOG:
 
-##### Version: 1.1
+<br />
+
+#### Version: 1.1
 
 - New release
 - Fixed target MC version to 1.6.4 (actually not works on 1.8.9, checked)
@@ -117,9 +139,13 @@ P.S.: This resource pack may not work with high MC version. In this case, you ca
 - Added more service textures
 - Removed couple garbage files
 
+<br />
+
 (P.S. may forgot about other details, bcs work was done for a while ago)
 
-##### Version: 1.0
+<br />
+
+#### Version: 1.0
 
 - Initial source uploading
 - Initial release
@@ -143,9 +169,13 @@ P.S.: This resource pack may not work with high MC version. In this case, you ca
 - Added beta environment textures: sun, moon, rain, snow, clouds
 - Added beta gui details: title, background, panorama, logo
 
+<br />
+
 (P.S. writing it while 1.1 is released and just forgot other details)
 
-##### Version: 0.0
+<br />
+
+#### Version: 0.0
 
 - Initial create repo commit
 - Created README
